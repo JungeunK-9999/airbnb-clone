@@ -28,3 +28,8 @@
 #3.2 : UserModel의 계속
 
 - null, blank : null은 db에서, blank는 form에서
+
+#3.4 : 모델을 어드민에 등록하는 두 가지 방법
+
+- 데코레이터
+- admin.site.register()
